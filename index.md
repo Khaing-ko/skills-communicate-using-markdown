@@ -5,3 +5,9 @@ This is my second lesson with markdown.
 
 ## Step - 2 - Add an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+## step -3 Code example
+<pre>
+var myVar = "Hello, world!";
+</pre>
