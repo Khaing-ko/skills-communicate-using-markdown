@@ -20,3 +20,12 @@ Initialized empty Git repository in
  ```javascript
 var myVar = "Hello, world!";
 ``` 
+
+## Step - 4 Task List Lesson
+
+### Example 1
+```md
+- [X] Turn on GitHub Pages
+- [X] Outline by portfolio
+- [ ] Introduce myself
+```
