@@ -9,12 +9,14 @@ This is my second lesson with markdown.
 
 ## step -3 Code example
 
-```
+### Example 1
+ ```
 $ git init
 Initialized empty Git repository in 
 /Users/skills/Projects/recipe-repository/.git/
 ```
 
-```javascript
+### Example 2
+ ```javascript
 var myVar = "Hello, world!";
-```
+``` 
